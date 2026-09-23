@@ -95,10 +95,4 @@ WIP
 
 WIP
 
-## Project Image
 
-Replace the `hero.png` file in the root of this repository with an image representing your project.
-
-**Keep the filename as `hero.png`.**
-
-This image is used as the project cover image on the AMP Lab website.
