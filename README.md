@@ -1,7 +1,5 @@
 # Copper Plated 3D-Printed Horn
 
-> Replace this title with the name of your project.
-
 ## Project Owner
 
 **Name:** Leroy Kang  
