@@ -1,19 +1,19 @@
-#### Copper Plated 3D-Printed Horn
+# Copper Plated 3D-Printed Horn
 
 > Replace this title with the name of your project.
 
-### Project Owner
+## Project Owner
 
 **Name:** Leroy Kang  
 **Virginia Tech Email:** kleroy23@vt.edu
 
-### Project Overview
+## Project Overview
 
 My partner and I previously designed a 7-8 GHz corrugated conical horn. In this phase I will either refine that design or use it as-is, then 3D-print the horn and copper-plate it using electroplating. After plating, I will evaluate its ability to perform circular polarization as well as differentiate LHCP/RHCP with a dipole probe and the oscilloscopes in the AMP Lab. To measure gain, I plan to request access to the anechoic chamber used by Virginia Tech's National Security Institute (NSI) Spectrum Dominance Division. That request depends on showing tangible evidence of the design and working results.
 
-## Project Phases
+### Project Phases
 
-## Phase 1: Prototype, Measurement Method, and Success Criteria
+#### Phase 1: Prototype, Measurement Method, and Success Criteria
 
 The AMP Lab oscilloscopes are limited to 3 GHz, which is well below the 7-8 GHz design band. To make the horn measurable with this equipment, the first prototype will be a lower-frequency version of the design, scaled to operate at approximately 1-3 GHz. This lets me verify circular polarization on-site, and the results will support the request for anechoic chamber access. 
 
@@ -29,17 +29,17 @@ The horn transmits a continuous-wave signal from a signal generator. A linear di
 - Plated prototype with continuous, uniform copper coverage, including inside the corrugations
 
 
-# Phase 2: Anechoic chamber access
+#### Phase 2: Anechoic chamber access
 
 Once circular polarization is verified, I will request chamber access for gain measurements. The request will be supported by the design documentation, photos of the plated prototype, and the Phase 1 axial ratio and handedness results.
 
-# Phase 3: Final reporting
+#### Phase 3: Final reporting
 
 If chamber access is not granted, the oscilloscope and other bench measurements will serve as the project's primary results. Gain and full pattern characterization will be presented as future work in the final report at the end of the year.
 
 
 
-### What I Hope to Learn
+## What I Hope to Learn
 
 - How to design and scale a corrugated conical horn antenna, and how the geometry (aperture, corrugation depth, flare angle) sets its performance
 - How 3D printing and copper electroplating can produce RF hardware, including how to get uniform plating inside the corrugations and how surface finish affects loss
